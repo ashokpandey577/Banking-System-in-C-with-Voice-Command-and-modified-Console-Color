@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542817637 source:c:\users\dell\desktop\banking system\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<Windows.h>
+	"MMSystem.h"
+
+1542467913 source:c:\users\dell\desktop\banking system\bank icon.rc
+
