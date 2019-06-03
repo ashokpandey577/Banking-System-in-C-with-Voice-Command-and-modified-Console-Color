@@ -1,0 +1,2 @@
+# Banking-System-in-C-with-Voice-Command-and-modified-Console-Color
+It is basically a console base application in c++. I have got this code from online and modified from my technical and innovative thinking. Now this Simple console base application can give you instruction via voice command and the color of your console would be appear blue during the running of application. I've also included icon for my banking system app through coding or adding a resource file with it. Finally I'm publishing it on github for helping new commerce for their college projects.
